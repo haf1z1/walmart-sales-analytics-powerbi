@@ -32,3 +32,6 @@ The goal of this project is to transform raw Walmart sales data into meaningful 
 2. Load the cleaned CSV file into Power BI.
 3. Explore the dashboard using filters and interactive visuals.
 
+---
+
+![Walmart Dashboard](images/walmart-main.png)
